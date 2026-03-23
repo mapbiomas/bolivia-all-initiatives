@@ -25,8 +25,6 @@ Each repository contains its own detailed documentation. To run the scripts you 
 - Access to the required assets (some are public, others may need to be copied to your own account).
 - Follow the instructions inside each repository’s `README.md` to set up the necessary modules and output paths.
 
-If you are new to MapBiomas workflows, please refer to the [official MapBiomas documentation](https://mapbiomas.org/en).
-
 ---
 
 ## 📬 Contact
